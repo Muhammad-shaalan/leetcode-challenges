@@ -1,5 +1,4 @@
 var search = function(nums, target) {
-    debugger
     let low = 0;
     let high = nums.length;
     while(low <= high) {
