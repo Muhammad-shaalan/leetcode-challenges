@@ -10,4 +10,4 @@ var twoSum = function(numbers, target) {
         curr > target ? right-- : left++;
     }
 };
-console.log(twoSum([-3,3,4,90], 0));
+console.log(twoSum([1,2,3,4,5,6,], 7));
